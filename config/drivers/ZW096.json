@@ -39,7 +39,7 @@
 			{
 				"id": 92,
 				"size": 1,
-				"value": 80
+				"value": 30
 			},
 			{
 				"id": 101,
@@ -183,14 +183,14 @@
 				"en": "Minimum wattage change (%) needed before an update report is send",
 				"nl": "Minimale verandering in wattage (%) nodig voor het verzenden van een update"
 			},
-			"value": 80,
+			"value": 30,
 			"attr": {
 				"min": 0,
 				"max": 100
 			},
 			"hint": {
-				"en": "Minimum change in wattage percent (%) for a report to be sent. \nrange: 0 - 100",
-				"nl": "Minimale verandering in wattage procent (%) nodig voor het verzenden van een update. \nbereik: 0 - 100"
+				"en": "Minimum change in wattage (%) for a report to be sent.\nRange: 0 - 100",
+				"nl": "Minimale verandering in wattage (%) nodig voor het verzenden van een update.\nBereik: 0 - 100"
 			}
 		},
 		{
