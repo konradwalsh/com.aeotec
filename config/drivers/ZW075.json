@@ -20,7 +20,8 @@
 			1,
 			2
 		],
-		"defaultConfiguration": [{
+		"defaultConfiguration": [
+			{
 				"id": 3,
 				"size": 1,
 				"value": 1
@@ -67,7 +68,8 @@
 		"large": "/drivers/ZW075/assets/images/large.png",
 		"small": "/drivers/ZW075/assets/images/small.png"
 	},
-	"settings": [{
+	"settings": [
+		{
 			"id": 3,
 			"type": "checkbox",
 			"label": {
@@ -92,7 +94,8 @@
 				"en": "When the device has been re-powered, it will set it status as configured",
 				"nl": "Wanneer de Smart Switch zonder stroom heeft gezeten, zal deze automatisch terug worden gezet naar deze status"
 			},
-			"values": [{
+			"values": [
+				{
 					"id": "0",
 					"label": {
 						"en": "Status before re-power",
@@ -140,7 +143,8 @@
 				"nl": "Deze parameter past het gedrag van de LED aan"
 			},
 			"value": "0",
-			"values": [{
+			"values": [
+				{
 					"id": "0",
 					"label": {
 						"en": "LED color follows load",
@@ -209,7 +213,8 @@
 				"nl": "Welke informatie moet naar apparaten in associatie groep 2 worden gestuurd"
 			},
 			"value": "8",
-			"values": [{
+			"values": [
+				{
 					"id": "0",
 					"label": {
 						"en": "Nothing",
@@ -272,7 +277,8 @@
 				"nl": "Welke informatie moet naar apparaten in associatie groep 3 worden gestuurd"
 			},
 			"value": "0",
-			"values": [{
+			"values": [
+				{
 					"id": "0",
 					"label": {
 						"en": "Nothing",
